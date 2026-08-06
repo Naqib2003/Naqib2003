@@ -23,7 +23,7 @@
 - 🌍 Working towards pursuing a Master's or PhD abroad after graduation.
 - 🚲 **Beyond the screen:** I'm a cycling enthusiast (always looking for the best routes or tinkering with bicycle mechanics) and a huge fan of heartwarming animated movies.
 
-## 🛠️ Tech Stack & Tools
+##  Tech Stack & Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
@@ -33,9 +33,8 @@
   <img src="https://img.shields.io/badge/Data_Engineering-4EAA25?style=for-the-badge&logo=databricks&logoColor=white" alt="Data Engineering" />
 </p>
 
-## 📈 GitHub Stats
+##  GitHub Stats
 
-*(These cards will automatically update as you push code and contribute to repositories!)*
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Naqib2003&show_icons=true&theme=tokyonight&hide_border=true" alt="Naqib's GitHub Stats" width="48%" />
