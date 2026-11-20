@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <h1 align="center">Hi 👋, I'm Naqib</h1>
-<h3 align="center">Backend Developer | AI & Data Engineering Enthusiast</h3>
+<h3 align="center">MERN Stack Developer | ML & LLM  Enthusiast</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/naqib-alam-5b3489249/">
@@ -17,10 +17,10 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Computer Science and Engineering student at **BRAC University**.
-- ⚙️ Passionate about **Backend Development, Logic Design, and Data Structures**. I prefer building robust systems over styling with CSS!
-- 🤖 Actively exploring **AI Automation, Machine Learning, and Cloud Computing** for my upcoming thesis and future research.
-- 🌍 Working towards pursuing a Master's or PhD abroad after graduation.
+- 🎓 Computer Science student at **BRAC University**.
+- ⚙️ Passionate about **MERN Stack , Springboot  and Django**. I build software and web applications!
+- 🤖 Actively exploring **NLP, Machine Learning, and LLM** for my upcoming thesis and future research.
+- 🌍 Working towards pursuing a Master's abroad after graduation.
 - 🚲 **Beyond the screen:** I'm a cycling enthusiast (always looking for the best routes or tinkering with bicycle mechanics) and a huge fan of heartwarming animated movies.
 
 ##  Tech Stack & Tools
@@ -47,10 +47,9 @@
 
 ## 🚀 Featured Projects
 
-* 📈 **Stock Trading Platform Simulation:** Built using robust Java OOP principles.
-* 🏨 **Hotel Reservation System:** Backend management for room categorization and automated booking.
-* 📊 **Student Grade Tracker:** A data-management utility for academic tracking and summary calculations.
-* ⚙️ **Hardware Logic Design:** 5-bit sorting network implemented on a trainer board using fundamental logic gates.
+* 📈 **StudyBuddy - Student Productivity & Focus WebApp:**A lightweight, zero-login, client side productivity hub built for students. .
+* 🏨 **DevPathways · Interactive Developer Roadmaps & Free Curated Resources:**An Interactive Developer Learning Roadmap Platform with Curated Resources and Structured Career Paths.
+* 📊 **Family Adoption & Senior Care Portal:** Family Adoption & Senior Care Portal: A Smart Platform for Adoption, Care Placement, Verification, and Community Support.
 
 ---
 <p align="center"><i>Building logic, optimizing data, and exploring the future of AI.</i></p>
